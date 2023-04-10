@@ -2,6 +2,15 @@ body {
     background-color: #010165;
     margin: 0px;
   }
+
+  nav li {
+    display: inline;
+    color: aliceblue;
+    padding: 10px;
+    text-align: right;
+    
+
+  }
   
   .header {
     background-color: #00ffff;
